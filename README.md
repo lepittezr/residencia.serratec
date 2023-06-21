@@ -15,7 +15,7 @@
 
 ✔️ Desenvolvimento de API Restful
 
-🚧 Desenvolvimento WEB
+✔️ Desenvolvimento WEB
 
 🚧 Desenvolvimento de Aplicativo Mobile
 
